@@ -50,6 +50,7 @@ Write a script generate_test_cases.py to produce test_cases.json.
   - notes (optional): Any special assumptions
 
  -Compare coverage, correctness, and completeness of outputs.
+ 
  -Coverage:
       -Did both LLMs produce at least one test case for this requirement?
       
