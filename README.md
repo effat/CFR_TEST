@@ -41,7 +41,7 @@ Write a script generate_test_cases.py to produce test_cases.json.
 ###**Task 4: Forensick Integration (10 Points)**
 Pick five methods as per your choice in the V&V scripts or CI workflow to integrate forensick. Example: Requirement skipped/missing, CI build pass/failed.
 
-### **Individual Task (40 Points)**
+###**Individual Task (40 Points)**
 - Generate LLM-based test cases for 5 selected rules.
 - Use two LLMs: Mistral and quantized Mistral.
 - Each test case should include:
