@@ -55,11 +55,14 @@ Write a script generate_test_cases.py to produce test_cases.json.
       
  -Correctness:
       -Does the description match the requirement?
+   
       -Check if the test actually tests what the requirement says.
       
  -Completeness:
       -Are all required fields present?
+      
       -test_case_id, requirement_id, description, input_data, expected_output
+      
       -Are optional fields (steps, notes) useful?
 
 
