@@ -51,14 +51,16 @@ Write a script generate_test_cases.py to produce test_cases.json.
 
  -Compare coverage, correctness, and completeness of outputs.
  -Coverage:
-      Did both LLMs produce at least one test case for this requirement?
+      -Did both LLMs produce at least one test case for this requirement?
+      
  -Correctness:
-      Does the description match the requirement?
-      Check if the test actually tests what the requirement says.
+      -Does the description match the requirement?
+      -Check if the test actually tests what the requirement says.
+      
  -Completeness:
-      Are all required fields present?
-      test_case_id, requirement_id, description, input_data, expected_output
-      Are optional fields (steps, notes) useful?
+      -Are all required fields present?
+      -test_case_id, requirement_id, description, input_data, expected_output
+      -Are optional fields (steps, notes) useful?
 
 
 
