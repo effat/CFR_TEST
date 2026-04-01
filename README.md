@@ -74,8 +74,11 @@ Pick five methods as per your choice in the V&V scripts or CI workflow to integr
 ##**Deliverables**
 Group Project
 -A repo hosted on GitHub. Name of the repo will be TEAMNAME-SQA2025-AUBURN
+
 -Full completion of all activities as recorded on the GitHub repository
+
 -Report describing what activities your performed and what you have learned
+
 -Logs/screenshots that show execution of forensics and GitHub action
 
 Individual
