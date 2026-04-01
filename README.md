@@ -10,7 +10,7 @@ This project is designed to teach students **Verification & Validation (V&V) of 
 ## Inputs
 
 1. **Markdown file with CFR section**  
-   - Example: `21_CFR_117.130.md`in Input
+   - Example: `21_CFR_117.130.md`in Input CFR File
    - Contains hierarchical rules with **parent sections and atomic units**.
    - Example snippet:
 
