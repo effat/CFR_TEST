@@ -21,6 +21,10 @@ This project is designed to teach students **Verification & Validation (V&V) of 
 Upload project as a GitHub repo. Add all team members' name. Craete a GitHub action similar to Assignment 6. 
 ### **Task 1: Extract and Structure Requirements (20 Points)**
 - Use the provided **Python script** to parse the Markdown CFR section (`21_CFR_117.130.md`) into `requirements.json`.
+
+- python command
+
+- python scripts/generate_requirements.py -i "Input CFR File/CFR-117.130.md" -o "Input CFR File/output.json" -c "21 CFR 117.130"
   
 - **Pick 10 atomic rules** from the parsed list.
 - Modify the provided python script to generate `expected_structure.json` mapping:
